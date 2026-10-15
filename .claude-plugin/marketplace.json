@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "xstack",
+  "description": "Marketplace for the xstack plugin",
+  "owner": {
+    "name": "Proto"
+  },
+  "plugins": [
+    {
+      "name": "xstack",
+      "description": "Custom stack based on pstack: xstack-mode, principle skills, and agent workflows for Claude Code.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

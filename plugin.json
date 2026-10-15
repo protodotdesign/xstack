@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "xtack",
+  "version": "0.15.20",
+  "description": "Custom stack based on Pstack",
+  "author": {
+    "name": "Proto"
+  },
+  "homepage": "https://github.com/protodotdesign/xstack",
+  "repository": "https://github.com/protodotdesign/xstack",
+  "license": "MIT"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Match Writing"
+  short_description: "Match a reference's voice, rhythm, and humour"
+  default_prompt: "Use $match-writing to rewrite this draft in the voice of the supplied reference, preserving its facts and checking cadence, agency, and humour."

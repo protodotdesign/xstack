@@ -1,0 +1,12 @@
+{
+  "name": "xstack",
+  "version": "0.15.20",
+  "description": "Custom stack based on pstack: xstack-mode, principle skills, and agent workflows for Claude Code.",
+  "author": {
+    "name": "Proto"
+  },
+  "homepage": "https://github.com/protodotdesign/xstack",
+  "repository": "https://github.com/protodotdesign/xstack",
+  "license": "MIT",
+  "keywords": ["pstack", "xstack-mode", "workflow", "principles", "subagents", "unslop"]
+}
